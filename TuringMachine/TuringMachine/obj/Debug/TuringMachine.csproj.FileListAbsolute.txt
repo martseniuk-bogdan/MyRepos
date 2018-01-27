@@ -1,0 +1,12 @@
+C:\Users\ohdud\Desktop\TuringMachine\TuringMachine\bin\Debug\TuringMachine.exe.config
+C:\Users\ohdud\Desktop\TuringMachine\TuringMachine\bin\Debug\TuringMachine.exe
+C:\Users\ohdud\Desktop\TuringMachine\TuringMachine\bin\Debug\TuringMachine.pdb
+C:\Users\ohdud\Desktop\TuringMachine\TuringMachine\obj\Debug\TuringMachine.csprojResolveAssemblyReference.cache
+C:\Users\ohdud\Desktop\TuringMachine\TuringMachine\obj\Debug\TuringMachine.Form1.resources
+C:\Users\ohdud\Desktop\TuringMachine\TuringMachine\obj\Debug\TuringMachine.Properties.Resources.resources
+C:\Users\ohdud\Desktop\TuringMachine\TuringMachine\obj\Debug\TuringMachine.csproj.GenerateResource.Cache
+C:\Users\ohdud\Desktop\TuringMachine\TuringMachine\obj\Debug\TuringMachine.csproj.CoreCompileInputs.cache
+C:\Users\ohdud\Desktop\TuringMachine\TuringMachine\obj\Debug\TuringMachine.exe
+C:\Users\ohdud\Desktop\TuringMachine\TuringMachine\obj\Debug\TuringMachine.pdb
+C:\Users\ohdud\Desktop\TuringMachine\TuringMachine\obj\Debug\TuringMachine.Caesar.resources
+C:\Users\ohdud\Desktop\TuringMachine\TuringMachine\obj\Debug\TuringMachine.Vigenere.resources
